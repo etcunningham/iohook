@@ -6,7 +6,7 @@
 *.log
 binding.gyp
 build
-builds
+!builds/**/build
 docs/.vuepress/dist
 examples/electron-example/.DS_Store
 logs
