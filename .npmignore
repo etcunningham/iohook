@@ -5,7 +5,7 @@ _config.yml
 .vscode/
 appveyor.yml
 build/
-builds/
+!builds/**/build/
 CMakeFiles/
 deploy-docs.sh
 docs/
