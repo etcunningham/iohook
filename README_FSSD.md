@@ -9,6 +9,8 @@ Several files have been modified from the original package:
 - src/iohook.cc
 - index.js
 - package.json
+- package-lock.json
+- install.js
 
 When the time comes to update this package:
 
